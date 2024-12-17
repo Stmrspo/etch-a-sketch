@@ -1,0 +1,1 @@
+Plan is to create a simple etch-a-sketch website on a 16 x 16 grid. 
